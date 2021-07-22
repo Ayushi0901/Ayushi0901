@@ -1,17 +1,11 @@
 ### Namastey ,Swagat hai!! 👋
-I am <em>AYUSHI SRIVASTAVA</em>
+I am <em><bold>AYUSHI SRIVASTAVA</bold></em>
 
-<!--
-**Ayushi0901/Ayushi0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving Data Structure and Algorithm Logics. 
+- 🌱 I’m currently learning Django and AWS
+- 👯 I’m looking to collaborate on Project Based on Python Libraries.
+- 🤔 I’m looking for help with Graphic Designing 
+- 💬 I'm an overthinker 
+- 📫 How to reach me:<a href=" https://www.linkedin.com/in/ayushi-srivastava-a3ba371b0/">[Ping Me..]
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love to watch Shinchan and Doraemon whenever I feel low or want to relax.
