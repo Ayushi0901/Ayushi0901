@@ -1,5 +1,5 @@
 ### Namastey🙏, Swagat hai!!
-🌼*I am ***AYUSHI SRIVASTAVA...*** 🌼
+🌼 *I am ***AYUSHI SRIVASTAVA...***
 
 - 🔭 I’m currently working on improving Data Structure and Algorithm Logics. 
 - 🌱 I’m currently learning Django and AWS
