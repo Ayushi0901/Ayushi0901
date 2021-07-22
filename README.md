@@ -1,5 +1,5 @@
-### Namastey ,Swagat hai!! 👋
-*I am ***AYUSHI SRIVASTAVA...****
+### Namastey🙏, Swagat hai!!
+*I am ***AYUSHI SRIVASTAVA...****💃
 
 - 🔭 I’m currently working on improving Data Structure and Algorithm Logics. 
 - 🌱 I’m currently learning Django and AWS
@@ -10,7 +10,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to watch Shinchan and Doraemon whenever I feel low or want to relax.
 
-## Stats and Proficiency and Tools
+💻## Stats and Proficiency and Tools
 
 ![My Stats...](https://github-readme-stats.vercel.app/api?username=Ayushi0901&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=000000&bg_color=E1AD01)
 
