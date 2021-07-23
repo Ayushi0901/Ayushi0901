@@ -1,4 +1,4 @@
-<h1 align="center">Namastey🙏, Swagat hai!!</h1>![visitors count](https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901)
+<h1 align="center">Namastey🙏, Swagat hai!!</h1>                  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901">
 <h2 align="center"> <b>AYUSHI SRIVASTAVA</b></h2>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
@@ -35,7 +35,7 @@
  
  
  
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901">
+
 
  
 </p>
