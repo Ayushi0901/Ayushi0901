@@ -1,5 +1,5 @@
 <h1 align="center">Namastey🙏, Swagat hai!!</h1>                  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901">
-<h2 align="center"> <b>AYUSHI SRIVASTAVA</b></h2>
+### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Ayushi+Srivastava)](https://git.io/typing-svg) </h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
 - 🔭 I’m currently working on improving Data Structure and Algorithm Logics. 
@@ -31,12 +31,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
  <br/>
 <br>
- 
- 
- 
- 
-
-
  
 </p>
 
