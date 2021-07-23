@@ -13,15 +13,18 @@
 - ⚡ Fun fact: I love to watch Shinchan and Doraemon whenever I feel low or want to relax.
 
 <h3>💻 Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushi0901&theme=tokyonight_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushi0901&theme=nightowl_icons=true">
 
 <h3>😎 Proficiency</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<h3>🔦 Familiar With</h3> 
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" style="vertical-align:top; margin:4px"/>
+<h3>🔦 Developement</h3> 
 <p align="center">
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="40" style="vertical-align:top; margin:4px"/><img src="https://img.icons8.com/color/48/000000/css3.png" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="40" style="vertical-align:top; margin:4px/>
 <h3>🧰 Tools</h3> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -33,5 +36,6 @@
  <br/>
 <br>
  
+
 </p>
 
