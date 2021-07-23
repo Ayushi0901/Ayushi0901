@@ -1,7 +1,7 @@
 ### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=F7D927&center=true&vCenter=true&lines=Hi%2C+I'm+Ayushi+Srivastava)](https://git.io/typing-svg) </h1>
-<h1 align="center">Namastey🙏, Swagat hai!!</h1>                  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901">
-### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=F7D927&center=true&vCenter=true&lines=Hi%2C+I'm+Ayushi+Srivastava)](https://git.io/typing-svg) </h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
+<h1 align="center">Namastey🙏, Swagat hai!!</h1>                  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901">
+
 
 - 🔭 I’m currently working on improving Data Structure and Algorithm Logics. 
 - 🌱 I’m currently learning Django and AWS
