@@ -11,7 +11,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to watch Shinchan and Doraemon whenever I feel low or want to relax.
 
-<h3>💻 Stats</h3>![Ayushi stats.](https://github-readme-stats.vercel.app/api?username=Ayushi0901&theme=great-gatsby_icons=true)
+<h3>💻 Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushi0901&theme=great-gatsby_icons=true">
 
 <h3>😎 Proficiency</h3>
 <p align="center">
