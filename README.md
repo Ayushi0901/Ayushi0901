@@ -1,4 +1,4 @@
-<h1 align="center">Namastey🙏, Swagat hai!!</h1>
+<h1 align="center">Namastey🙏, Swagat hai!!</h1>![visitors count](https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901)
 <h2 align="center"> <b>AYUSHI SRIVASTAVA</b></h2>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
@@ -33,7 +33,7 @@
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi0901&hide=html,css&layout=compact" />
  <br>
- ![visitors count](https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901)
+
  
 </p>
 
