@@ -1,5 +1,5 @@
 <h1 align="center">Namastey🙏, Swagat hai!!</h1>
-<h2 align="center">🌼 AYUSHI SRIVASTAVA 🌼</h2>
+<h2 align="center"> <b>AYUSHI SRIVASTAVA</b></h2>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
 - 🔭 I’m currently working on improving Data Structure and Algorithm Logics. 
