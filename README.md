@@ -12,8 +12,7 @@
 - ⚡ Fun fact: I love to watch Shinchan and Doraemon whenever I feel low or want to relax.
 
 <h3>💻 Stats</h3>
-![My Stats...](https://github-readme-stats.vercel.app/api?username=Ayushi0901&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=000000&bg_color=E1AD01&theme=radical)
-
+[Ayushi stats](https://github-readme-stats.vercel.app/api?username=Ayushi0901&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=000000&bg_color=E1AD01&theme=radical)
 <h3>😎 Proficiency</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
