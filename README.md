@@ -42,7 +42,7 @@
  <br/>
 <br>
  
- <b> Linkedin <b/> <a href="https://www.linkedin.com/in/ayushi-srivastava-a3ba371b0/"</a>
+ <b> Linkedin <b/> <a href="https://www.linkedin.com/in/ayushi-srivastava-a3ba371b0/"/>
 
 </p>
 
