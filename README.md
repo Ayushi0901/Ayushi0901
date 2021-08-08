@@ -11,7 +11,7 @@
 - 📫 How to reach me: Ping me At [linkedIn](https://www.linkedin.com/in/ayushi-srivastava-a3ba371b0/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to watch Shinchan<img src="https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif" width="50" align="center"/>
- and Doraemon<img src="https://media.giphy.com/media/TkDVr6D3OgqEqcLIYP/giphy.gif" width="50" align="center"/> whenever I feel low or want to relax.
+ and Doraemon <img src="https://media.giphy.com/media/TkDVr6D3OgqEqcLIYP/giphy.gif" width="50" align="center"/> whenever I feel low or want to relax.
 
 <h3>💻 Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Ayushi0901&theme=nightowl_icons=true">
