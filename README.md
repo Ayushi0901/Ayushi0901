@@ -15,7 +15,7 @@
  and Doraemon <img src="https://media.giphy.com/media/TkDVr6D3OgqEqcLIYP/giphy.gif" width="50" align="center"/> whenever I feel low or want to relax.
 
 <h3>💻 Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushi0901&theme=nightowl_icons=true">
+<img src="![Ayushi stats.](https://github-readme-stats.vercel.app/api?username=Ayushi0901&show_icons=true&theme=merko&hide=issues)">
 
 <h3>😎 Languages</h3>
 <p align="center">
