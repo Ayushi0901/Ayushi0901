@@ -2,7 +2,7 @@
 <h6 align="center">A passionate Full Stack Developer.</h6>
 <h1 align="center">Namastey🙏, Swagat hai!!</h1>                  
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901">
-<img src="https://media.giphy.com/media/ZBEXPVTrheGxg3ZDaL/giphy.gif" width="50" align="right"/>
+<img src="https://media.giphy.com/media/ZBEXPVTrheGxg3ZDaL/giphy.gif" width="150" align="right"/>
 
 - 🔭 I’m currently working on improving Data Structure and Algorithm Logics. 
 - 🌱 I’m currently learning Django and AWS
