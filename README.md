@@ -21,14 +21,14 @@
 <h3>😎 Languages</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:6px">
- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" style="vertical-align:top; margin:6px"/>
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" style="vertical-align:top; margin:6px"/>
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C"  height="40" style="vertical-align:top; margin:6px"/>
  
 <h3>🔦 Developement</h3> 
 <p align="center">
- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="40" alt="HTML" style="vertical-align:top; margin:6px"/>
- <img src="https://img.icons8.com/color/48/000000/css3.png" height="40" style="vertical-align:top; margin:6px">
-  <img src="https://img.icons8.com/color/48/000000/flask.png" height="40" style="vertical-align:top; margin:6px">
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" height="40"  style="vertical-align:top; margin:6px"/>
+ <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40" style="vertical-align:top; margin:6px">
+  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:6px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:6px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:6px">
  
