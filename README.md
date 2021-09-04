@@ -14,6 +14,9 @@
 - ⚡ Fun fact: I love to watch Shinchan<img src="https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif" width="50" align="center"/>
  and Doraemon <img src="https://media.giphy.com/media/TkDVr6D3OgqEqcLIYP/giphy.gif" width="50" align="center"/> whenever I feel low or want to relax.
 <br />
+<br />
+
+---
 <h3>💻 Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Ayushi0901&show_icons=true&theme=merko&hide=issues">
 <br />
