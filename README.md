@@ -13,17 +13,17 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to watch Shinchan<img src="https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif" width="50" align="center"/>
  and Doraemon <img src="https://media.giphy.com/media/TkDVr6D3OgqEqcLIYP/giphy.gif" width="50" align="center"/> whenever I feel low or want to relax.
-
+<br />
 <h3>💻 Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Ayushi0901&show_icons=true&theme=merko&hide=issues">
 
-
+<br />
 <h3>😎 Languages</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:6px">
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" style="vertical-align:top; margin:6px"/>
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C"  height="40" style="vertical-align:top; margin:6px"/>
- 
+<br /> 
 <h3>🔦 Developement</h3> 
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" height="40"  style="vertical-align:top; margin:6px"/>
