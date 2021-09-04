@@ -16,14 +16,19 @@
 <br />
 <h3>💻 Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Ayushi0901&show_icons=true&theme=merko&hide=issues">
-
 <br />
+<br />
+
+---
 <h3>😎 Languages</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:6px">
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" style="vertical-align:top; margin:6px"/>
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C"  height="40" style="vertical-align:top; margin:6px"/>
-<br /> 
+<br />
+<br />
+
+---
 <h3>🔦 Developement</h3> 
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" height="40"  style="vertical-align:top; margin:6px"/>
@@ -33,7 +38,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:6px">
  
 <!--  <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="40" style="vertical-align:top; margin:6px"> -->
-<br/>                                                                                        
+<br />
+<br />
+
+---                                                                                       
 <h3>🧰 Tools</h3> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:6px">
@@ -44,8 +52,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:6px ; color:white" >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:6px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:6px">
- <br/>
-
+ 
  
 <!--  <b> Linkedin <a href="https://www.linkedin.com/in/ayushi-srivastava-a3ba371b0/"/>  
  -->
