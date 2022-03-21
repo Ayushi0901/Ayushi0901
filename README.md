@@ -4,8 +4,8 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901">
 <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="150" align="right"/>
 
-- 🔭 I’m final year student at IMSEC,Ghaziabad.
-- 🌱 I’m currently learning Django and AWS
+- 🔭 I’m final year student at IMSEC,Ghaziabad and Trainee at Nagarro Software.
+- 🌱 I’m currently learning Java Advance and Springboot. 
 - 👯 I’m looking to collaborate on Project Based on Python Libraries.
 - 🤔 I’m looking for help with Graphic Designing 
 - 💬 I'm an overthinker and fitness Freak 🤸‍♀️
