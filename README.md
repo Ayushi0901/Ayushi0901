@@ -4,9 +4,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayushi0901.Ayushi0901">
 <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="150" align="right"/>
 
-- 🔭 I’m ex-IMSECian and Associate Engineer at Nagarro Software.
-- 🌱 I’m currently learning Java Advance and Springboot. 
-- 👯 I’m looking to collaborate on Project Based on Python Libraries.
+- 🔭 I’m an ex-IMSECian and Engineer at Nagarro Software.
+- 🌱 I’m currently practicing DSA advance. 
+- 👯 I’m looking to collaborate on a Project Based on Python Libraries.
 - 🤔 I’m looking for help with Graphic Designing 
 - 💬 I'm an overthinker and fitness Freak 🤸‍♀️
 - 📫 How to reach me: Ping me At [linkedIn](https://www.linkedin.com/in/ayushi-srivastava-a3ba371b0/)
